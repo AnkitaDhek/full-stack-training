@@ -1,0 +1,26 @@
+body{
+    background-color:#d1c4e9;
+ 
+}
+h1{
+    border:2px solid#673ab7;
+    background-color: #ede7f6;
+    font-family: cursive;
+}
+p{
+    border:2px solid #673ab7;
+    font-family:cursive;
+    background-color: #ede7f6;
+}
+img{
+    border-radius: 50%;
+}
+h2{
+    border:2px solid #673ab7;
+    background-color: #ede7f6;
+    border-top-right-radius:50px;
+    font-family:cursive;
+}
+li{
+    font-family: cursive;
+}
